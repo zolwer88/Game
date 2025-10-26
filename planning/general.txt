@@ -1,0 +1,4 @@
+2D top veiw
+tile based
+chunks
+4 inventory slots
